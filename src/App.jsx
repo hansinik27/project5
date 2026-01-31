@@ -23,7 +23,7 @@ export default class App extends Component {
               <CourseCard data={data}/>
             ))}
           </div>
-          <div className='footer'>Copyright @ 2026.All rights reserved. - Meghaj.Kharkar</div>
+          <div className='footer'>Copyright @ 2026.All rights reserved. - Hansini.K</div>
       </div>
     )
   }
